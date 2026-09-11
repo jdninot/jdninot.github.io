@@ -66,6 +66,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -78,6 +79,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./dimension.png" alt="David Niño logo" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">David Niño</span>
     </a>
@@ -124,13 +128,13 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">David Niño-Torres</h1>
-<p class="subtitle lead"></p><p>Statistician/Photographer</p><p></p>
+<p class="subtitle lead">Thought, Conscience, Dreams | ⟨Bio⟩ Statistician, B.Sc., M.Sc. | X ~ Gumbel(μ, β).</p>
 </div>
 <div class="quarto-title-meta">
   </div>
 </header>
     <div class="about-links">
-  <a href="https://scholar.google.com/citations?user=igCiJo0AAAAJ&amp;hl=es" class="about-link" rel="" target="">
+  <a href="https://scholar.google.com/citations?user=FHQrPpIAAAAJ&amp;hl=en" class="about-link" rel="" target="">
     <i class="bi bi-google"></i>
      <span class="about-link-text">Google Scholar</span>
   </a>
@@ -145,14 +149,32 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
+<blockquote class="blockquote">
+<p><em>“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.”</em> — Jane Goodall</p>
+</blockquote>
 <section id="about-me" class="level3">
 <h3 data-anchor-id="about-me">About me</h3>
-<p>I am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontificia Universidad Javeriana.</p>
-<p>My research interests focus on the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference in the areas of global health, epidemiology, demography, genomics, and environmental studies.</p>
+<p>I am a biostatistician with a keen interest in understanding complex population processes — particularly within the field of health — through mathematical and statistical modelling.</p>
+<p><strong>Statistical Interests:</strong></p>
+<ul>
+<li>Stochastic Processes</li>
+<li>Bayesian Statistics</li>
+<li>Longitudinal Models</li>
+<li>Statistical Learning</li>
+</ul>
+<p><strong>Areas of Application:</strong></p>
+<ul>
+<li>Epidemiology and Demography
+<ul>
+<li>Mortality</li>
+<li>Migration</li>
+<li>Substance Use</li>
+<li>Infectious Diseases</li>
+<li>Climate Change</li>
+</ul></li>
+</ul>
+<p>I have experience in data cleaning, analysis and visualisation, with a strong focus on reproducibility and automation, using tools such as GitHub and statistical programming languages including R and Python.</p>
 <p>Also, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚.</p>
-<blockquote class="blockquote">
-<p><em>“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make” — Jane Goodal.</em></p>
-</blockquote>
 
 
 </section>
@@ -247,6 +269,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -581,10 +610,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </i> 
     </a>
   </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/davidninotorres/">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
 </ul>
     </div>
     <div class="nav-footer-right">
-<p>This blog is developed by David Niño-Torres using <a href="https://quarto.org/">Quarto</a>, an open-source scientific and technical publishing system.</p>
+<p>This site is developed by David Niño-Torres using <a href="https://quarto.org/">Quarto</a>, an open-source scientific and technical publishing system.</p>
 </div>
   </div>
 </footer>
@@ -592,4 +627,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

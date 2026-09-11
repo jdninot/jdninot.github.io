@@ -3,6 +3,7 @@ title: "Curriculum Vitae"
 toc: true
 toc-depth: 2
 # title-block-banner: true
+css: styles.css
 ---
 
 > To us, probability is the very guide of life. —Marcus Tullius Cicero
@@ -10,69 +11,74 @@ toc-depth: 2
 ## 🏛️ Education
 
 **Pontificia Universidad Javeriana**, Bogotá D.C, Colombia\
-**MSc in Biostatistics**, 2024 – Present\
-*Relevant coursework:* Epidemiology, Longitudinal Models, Health Economics, Advanced Topics in Biostatistics
+**MSc in Biostatistics**, 2024 – 2026\
+*Relevant coursework:* Longitudinal data analysis, Categorical data analysis, Advanced biostatistical methods, Epidemiology, and Health economics.\
+*Thesis:* *Transitions in illicit drug use among youth: an analysis using a latent Markov model*\
+*Supervisors:* Nelcy Rodríguez Malagón, Carlos Gómez Restrepo.
 
 **Universidad Nacional de Colombia**, Bogotá D.C, Colombia\
 **BSc in Statistics**, 2014 – 2021\
-*Relevant coursework:* Spatial Statistics, Bayesian Statistics, Stochastic Processes, Demography\
-*Thesis:* *Stochastic Modelling of the COVID-19 Pandemic with Explicit Behavioural Changes in Bogotá: A Case Study*\
-*Supervisors:* Liliana Blanco & Viswanathan Arunachalam
+*Relevant coursework:* Spatial Statistics, Bayesian Statistics, Stochastic Processes, Regression analysis, Demography.\
+*Thesis:* *Stochastic modelling of the COVID-19 pandemic with explicit behavioural changes in Bogotá: a case study*\
+*Supervisors:* Liliana Blanco, Viswanathan Arunachalam.
 
 ## 🔬 Research experience
 
 **Pontificia Universidad Javeriana, Faculty of Medicine**, Bogotá D.C, Colombia\
-**Research Assistant: Statistician**, 2023 – 2025\
-*Department of Clinical Epidemiology and Biostatistics*\
-- **NIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America**\
-- Processed and analysed sociodemographic and epidemiological data from official sources\
-- Produced interactive visualisations and national/regional trend reports\
-- **OLA Study: Mental Health among Youth in Latin America**\
-- Cleaned and processed baseline and cohort data\
-- Conducted stratified analyses and fitted generalised linear and longitudinal models\
-- Drafted reports and contributed to article writing\
-[NIHR LATAM Centre](https://nihrlatamcentre.com), [OLA Study](https://theolastudy.com)
+**Research Assistant: Statistician**, 2023 – Present\
+*Department of Clinical Epidemiology and Biostatistics*
+
+**NIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America** [NIHR LATAM Centre](https://nihrlatamcentre.com)
+
+- Performed sociodemographic and epidemiological analyses of specific departments in Colombia using national data sources (DANE and SISPRO) in R: Cleaned, integrated, and visualised data for research reports.
+- Designed and delivered quantitative data analysis workshops in R for researchers.
+- Contributed to the development of the statistical analysis plan and the design of REDCap databases for data collection in a cluster-randomized and site-stratified randomized trials.
+
+**OLA Study: Mental Health among Youth in Latin America** [OLA Study](https://theolastudy.com)
+
+- Managed the end-to-end analysis of baseline and cohort sociodemographic and psychosocial data, including data processing and cleaning, statistical modelling using generalized linear and longitudinal models, and the preparation of research reports and contributions to scientific manuscript writing.
 
 **Universidad Nacional de Colombia, Faculty of Engineering**, Bogotá D.C, Colombia\
-**Research Assistant: Statistician**, 2021 – 2022\
-*LAB101 - Innovation, Creativity, and New Technologies Laboratory*\
-- Analysed and visualised data on internet service quality in collaboration with CRC\
-- Developed indicators for digital transformation in higher education\
-- Provided data analysis training and statistical consulting for a project with Bogotá's city council\
-- Applied deep learning techniques for data analysis and automation\
-[LAB101 UNAL](https://sites.google.com/view/lab101unal/inicio)
+**Research Assistant: Statistician**, 2021 – 2023\
+*LAB101 - Innovation, Creativity, and New Technologies Laboratory* [LAB101 UNAL](https://sites.google.com/view/lab101unal/inicio)
+
+- Analysed and visualised data on internet service quality in collaboration with Colombia's Communications Regulation Commission (CRC)
+- Designed indicators to assess the digital transformation process at Universidad Nacional de Colombia
+- Provided consulting on data analysis, statistical modelling, and geospatial analysis for projects with Bogotá's city council
+- Applied deep learning techniques for data automation and analysis
+
 
 ## 🏫 Academic experience
 
 **Universidad Nacional de Colombia, Department of Statistics**, Bogotá D.C, Colombia\
 **Student Assistant**, 2019 – 2022\
-*Stochastic Processes Research Group*\
-- Processed and cleaned COVID-19 surveillance data\
-- Implemented Markov chains and stochastic differential equations to project pandemic scenarios
+*Stochastic Processes Research Group*
 
-**Universidad Nacional de Colombia, Institute of Urban Studies**, Bogotá D.C, Colombia\
-**Student Assistant**, 2021\
-- Supported a seminar on global cities, industries, and market chains\
-- Prepared course materials, developed graphics and calculations, and reviewed student assignments
+- Processed and cleaned COVID-19 surveillance data
+- Implemented Markov chains and stochastic differential equations to project the evolution of the pandemic in Bogotá
 
 ## 🧠 Skills and Interests
 
 **Technical Skills:** R (advanced), Python (intermediate), SAS (basic), SQL (basic)\
-**Languages:** Spanish (native), English (A1)\
-**Statistical Interests:** Bayesian statistics, stochastic processes, multilevel modelling, statistical learning, and causal inference\
-**Application Areas:** Migration, mortality, historical demography, genomics, substance use epidemiology, environmental studies, and the application of artificial intelligence in health \
-**Hobbies:** Photography, reading, running, swimming
+**Languages:** Spanish (native), English (A2)\
 
 ## 📜 Certifications
 
+**Epidemiology for Public Health Specialisation**, 2026\
+*Imperial College London (Coursera)* — Credential ID: 5YZVOX9FCTSN
+
+- Measuring Disease in Epidemiology, Study Designs in Epidemiology, and Validity and Bias in Epidemiology
+
 **Infectious Disease Modelling Specialisation**, 2020\
-*Imperial College London (Coursera)* - Credential ID: PQYP8CKJFYS3\
-- SIR model development, interventions, and calibration\
+*Imperial College London (Coursera)* - Credential ID: PQYP8CKJFYS3
+
+- SIR model development, interventions, and calibration
 
 **TensorFlow Developer Professional Certificate**, 2020\
-*DeepLearning.AI (Coursera)* - Credential ID: MPC3F53UD7QX\
-- AI, machine learning, and deep learning using TensorFlow\
-- Convolutional Neural Networks, NLP, time series, and forecasting\
+*DeepLearning.AI (Coursera)* - Credential ID: MPC3F53UD7QX
+
+- AI, machine learning, and deep learning using TensorFlow
+- Convolutional Neural Networks, NLP, time series, and forecasting
 
 ```{=html}
 <style>

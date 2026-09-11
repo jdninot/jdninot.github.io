@@ -1,21 +1,93 @@
 ---
 title: "Photos"
-# title-block-banner: true
+title-block-banner: true
 format: html
 page-layout: full
-toc: true
-toc-depth: 2
+toc: false
+css: styles.css
 ---
 
 ## 📷 Through Lens
 
-> *“You don't make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.*” ― Ansel Adams
+> *"You don't make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved."* — Ansel Adams
 
+::: {style="max-width: 900px; margin: 2em auto;"}
 
-::: {style="text-align: center; max-width: 100%;"}
-<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/199852956@N06" title=""> <img src="https://live.staticflickr.com/65535/54456924671_3264ddf2b8_z.jpg" width="640" height="480" style="max-width: 100%; height: auto; border-radius: 8px;"/> </a>
+<div id="flickr-slideshow" class="flickr-hero">
+  <p class="flickr-loading">Cargando fotos…</p>
+</div>
+
+<div class="flickr-footer">
+  <div id="flickr-dots" class="flickr-dots"></div>
+  <a href="https://www.flickr.com/photos/199852956@N06" target="_blank" class="flickr-link">Ver galería completa en Flickr →</a>
+</div>
+
+:::
 
 ```{=html}
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<script>
+function jsonFlickrFeed(data) {
+  const container = document.getElementById('flickr-slideshow');
+  const dotsWrap = document.getElementById('flickr-dots');
+  container.innerHTML = '';
+  dotsWrap.innerHTML = '';
+
+  const photos = data.items.slice(0, 12);
+  let current = 0;
+  let timer;
+
+  photos.forEach((item, i) => {
+    // Imagen
+    const slide = document.createElement('div');
+    slide.className = 'flickr-slide' + (i === 0 ? ' active' : '');
+    const img = document.createElement('img');
+    img.src = item.media.m.replace('_m.jpg', '_b.jpg'); // mejor calidad
+    img.alt = item.title || 'Fotografía de David Niño';
+    slide.appendChild(img);
+
+    // Caption
+    if (item.title) {
+      const caption = document.createElement('div');
+      caption.className = 'flickr-caption';
+      caption.textContent = item.title;
+      slide.appendChild(caption);
+    }
+
+    container.appendChild(slide);
+
+    // Dot
+    const dot = document.createElement('span');
+    dot.className = 'flickr-dot' + (i === 0 ? ' active' : '');
+    dot.addEventListener('click', () => goTo(i));
+    dotsWrap.appendChild(dot);
+  });
+
+  const slides = container.querySelectorAll('.flickr-slide');
+  const dots = dotsWrap.querySelectorAll('.flickr-dot');
+
+  function goTo(index) {
+    slides[current].classList.remove('active');
+    dots[current].classList.remove('active');
+    current = index;
+    slides[current].classList.add('active');
+    dots[current].classList.add('active');
+  }
+
+  function next() {
+    goTo((current + 1) % slides.length);
+  }
+
+  function start() {
+    timer = setInterval(next, 5000);
+  }
+  function stop() {
+    clearInterval(timer);
+  }
+
+  start();
+  container.addEventListener('mouseenter', stop);
+  container.addEventListener('mouseleave', start);
+}
+</script>
+<script async src="https://www.flickr.com/services/feeds/photos_public.gne?id=199852956@N06&format=json"></script>
 ```
-:::

@@ -67,6 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -79,6 +80,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./dimension.png" alt="David Niño logo" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">David Niño</span>
     </a>
@@ -89,6 +93,10 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./cv.html" aria-current="page"> 
 <span class="menu-text">Curriculum Vitae</span></a>
@@ -157,67 +165,75 @@ ul.task-list li input[type="checkbox"] {
 <section id="education" class="level2">
 <h2 class="anchored" data-anchor-id="education">🏛️ Education</h2>
 <p><strong>Pontificia Universidad Javeriana</strong>, Bogotá D.C, Colombia<br>
-<strong>MSc in Biostatistics</strong>, 2024 – Present<br>
-<em>Relevant coursework:</em> Epidemiology, Longitudinal Models, Health Economics, Advanced Topics in Biostatistics</p>
+<strong>MSc in Biostatistics</strong>, 2024 – 2026<br>
+<em>Relevant coursework:</em> Longitudinal data analysis, Categorical data analysis, Advanced biostatistical methods, Epidemiology, and Health economics.<br>
+<em>Thesis:</em> <em>Transitions in illicit drug use among youth: an analysis using a latent Markov model</em><br>
+<em>Supervisors:</em> Nelcy Rodríguez Malagón, Carlos Gómez Restrepo.</p>
 <p><strong>Universidad Nacional de Colombia</strong>, Bogotá D.C, Colombia<br>
 <strong>BSc in Statistics</strong>, 2014 – 2021<br>
-<em>Relevant coursework:</em> Spatial Statistics, Bayesian Statistics, Stochastic Processes, Demography<br>
-<em>Thesis:</em> <em>Stochastic Modelling of the COVID-19 Pandemic with Explicit Behavioural Changes in Bogotá: A Case Study</em><br>
-<em>Supervisors:</em> Liliana Blanco &amp; Viswanathan Arunachalam</p>
+<em>Relevant coursework:</em> Spatial Statistics, Bayesian Statistics, Stochastic Processes, Regression analysis, Demography.<br>
+<em>Thesis:</em> <em>Stochastic modelling of the COVID-19 pandemic with explicit behavioural changes in Bogotá: a case study</em><br>
+<em>Supervisors:</em> Liliana Blanco, Viswanathan Arunachalam.</p>
 </section>
 <section id="research-experience" class="level2">
 <h2 class="anchored" data-anchor-id="research-experience">🔬 Research experience</h2>
 <p><strong>Pontificia Universidad Javeriana, Faculty of Medicine</strong>, Bogotá D.C, Colombia<br>
-<strong>Research Assistant: Statistician</strong>, 2023 – 2025<br>
-<em>Department of Clinical Epidemiology and Biostatistics</em><br>
-- <strong>NIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America</strong><br>
-- Processed and analysed sociodemographic and epidemiological data from official sources<br>
-- Produced interactive visualisations and national/regional trend reports<br>
-- <strong>OLA Study: Mental Health among Youth in Latin America</strong><br>
-- Cleaned and processed baseline and cohort data<br>
-- Conducted stratified analyses and fitted generalised linear and longitudinal models<br>
-- Drafted reports and contributed to article writing<br>
-<a href="https://nihrlatamcentre.com">NIHR LATAM Centre</a>, <a href="https://theolastudy.com">OLA Study</a></p>
+<strong>Research Assistant: Statistician</strong>, 2023 – Present<br>
+<em>Department of Clinical Epidemiology and Biostatistics</em></p>
+<p><strong>NIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America</strong> <a href="https://nihrlatamcentre.com">NIHR LATAM Centre</a></p>
+<ul>
+<li>Performed sociodemographic and epidemiological analyses of specific departments in Colombia using national data sources (DANE and SISPRO) in R: Cleaned, integrated, and visualised data for research reports.</li>
+<li>Designed and delivered quantitative data analysis workshops in R for researchers.</li>
+<li>Contributed to the development of the statistical analysis plan and the design of REDCap databases for data collection in a cluster-randomized and site-stratified randomized trials.</li>
+</ul>
+<p><strong>OLA Study: Mental Health among Youth in Latin America</strong> <a href="https://theolastudy.com">OLA Study</a></p>
+<ul>
+<li>Managed the end-to-end analysis of baseline and cohort sociodemographic and psychosocial data, including data processing and cleaning, statistical modelling using generalized linear and longitudinal models, and the preparation of research reports and contributions to scientific manuscript writing.</li>
+</ul>
 <p><strong>Universidad Nacional de Colombia, Faculty of Engineering</strong>, Bogotá D.C, Colombia<br>
-<strong>Research Assistant: Statistician</strong>, 2021 – 2022<br>
-<em>LAB101 - Innovation, Creativity, and New Technologies Laboratory</em><br>
-- Analysed and visualised data on internet service quality in collaboration with CRC<br>
-- Developed indicators for digital transformation in higher education<br>
-- Provided data analysis training and statistical consulting for a project with Bogotá’s city council<br>
-- Applied deep learning techniques for data analysis and automation<br>
-<a href="https://sites.google.com/view/lab101unal/inicio">LAB101 UNAL</a></p>
+<strong>Research Assistant: Statistician</strong>, 2021 – 2023<br>
+<em>LAB101 - Innovation, Creativity, and New Technologies Laboratory</em> <a href="https://sites.google.com/view/lab101unal/inicio">LAB101 UNAL</a></p>
+<ul>
+<li>Analysed and visualised data on internet service quality in collaboration with Colombia’s Communications Regulation Commission (CRC)</li>
+<li>Designed indicators to assess the digital transformation process at Universidad Nacional de Colombia</li>
+<li>Provided consulting on data analysis, statistical modelling, and geospatial analysis for projects with Bogotá’s city council</li>
+<li>Applied deep learning techniques for data automation and analysis</li>
+</ul>
 </section>
 <section id="academic-experience" class="level2">
 <h2 class="anchored" data-anchor-id="academic-experience">🏫 Academic experience</h2>
 <p><strong>Universidad Nacional de Colombia, Department of Statistics</strong>, Bogotá D.C, Colombia<br>
 <strong>Student Assistant</strong>, 2019 – 2022<br>
-<em>Stochastic Processes Research Group</em><br>
-- Processed and cleaned COVID-19 surveillance data<br>
-- Implemented Markov chains and stochastic differential equations to project pandemic scenarios</p>
-<p><strong>Universidad Nacional de Colombia, Institute of Urban Studies</strong>, Bogotá D.C, Colombia<br>
-<strong>Student Assistant</strong>, 2021<br>
-- Supported a seminar on global cities, industries, and market chains<br>
-- Prepared course materials, developed graphics and calculations, and reviewed student assignments</p>
+<em>Stochastic Processes Research Group</em></p>
+<ul>
+<li>Processed and cleaned COVID-19 surveillance data</li>
+<li>Implemented Markov chains and stochastic differential equations to project the evolution of the pandemic in Bogotá</li>
+</ul>
 </section>
 <section id="skills-and-interests" class="level2">
 <h2 class="anchored" data-anchor-id="skills-and-interests">🧠 Skills and Interests</h2>
 <p><strong>Technical Skills:</strong> R (advanced), Python (intermediate), SAS (basic), SQL (basic)<br>
-<strong>Languages:</strong> Spanish (native), English (A1)<br>
-<strong>Statistical Interests:</strong> Bayesian statistics, stochastic processes, multilevel modelling, statistical learning, and causal inference<br>
-<strong>Application Areas:</strong> migration, mortality, historical demography, genomics, substance use epidemiology, environmental studies, and the application of artificial intelligence in health<br>
-<strong>Hobbies:</strong> Photography, reading, running, swimming</p>
+<strong>Languages:</strong> Spanish (native), English (A2)<br>
+</p>
 </section>
 <section id="certifications" class="level2">
 <h2 class="anchored" data-anchor-id="certifications">📜 Certifications</h2>
+<p><strong>Epidemiology for Public Health Specialisation</strong>, 2026<br>
+<em>Imperial College London (Coursera)</em> — Credential ID: 5YZVOX9FCTSN</p>
+<ul>
+<li>Measuring Disease in Epidemiology, Study Designs in Epidemiology, and Validity and Bias in Epidemiology</li>
+</ul>
 <p><strong>Infectious Disease Modelling Specialisation</strong>, 2020<br>
-<em>Imperial College London (Coursera)</em> - Credential ID: PQYP8CKJFYS3<br>
-- SIR model development, interventions, and calibration<br>
-</p>
+<em>Imperial College London (Coursera)</em> - Credential ID: PQYP8CKJFYS3</p>
+<ul>
+<li>SIR model development, interventions, and calibration</li>
+</ul>
 <p><strong>TensorFlow Developer Professional Certificate</strong>, 2020<br>
-<em>DeepLearning.AI (Coursera)</em> - Credential ID: MPC3F53UD7QX<br>
-- AI, machine learning, and deep learning using TensorFlow<br>
-- Convolutional Neural Networks, NLP, time series, and forecasting<br>
-</p>
+<em>DeepLearning.AI (Coursera)</em> - Credential ID: MPC3F53UD7QX</p>
+<ul>
+<li>AI, machine learning, and deep learning using TensorFlow</li>
+<li>Convolutional Neural Networks, NLP, time series, and forecasting</li>
+</ul>
 <style>
 h1, h2, h3 {
   font-weight: 600;
@@ -323,6 +339,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -641,7 +664,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Supported by <a href="https://posit.co/"><img src="https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg" class="img-fluid" alt="Posit" width="65"></a></p>
+<p>Supported by <a href="https://posit.co/"><img src="images/posit-logo.svg" class="img-fluid" alt="Posit" width="65"></a></p>
 </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
@@ -657,10 +680,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </i> 
     </a>
   </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/davidninotorres/">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
 </ul>
     </div>
     <div class="nav-footer-right">
-<p>This blog is developed by David Niño-Torres using <a href="https://quarto.org/">Quarto</a>, an open-source scientific and technical publishing system.</p>
+<p>This site is developed by David Niño-Torres using <a href="https://quarto.org/">Quarto</a>, an open-source scientific and technical publishing system.</p>
 </div>
   </div>
 </footer>
@@ -668,4 +697,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

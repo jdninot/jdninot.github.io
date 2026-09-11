@@ -98,6 +98,7 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
+<style>html{ scroll-behavior: smooth; }</style>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -139,6 +140,9 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./dimension.png" alt="David Niño logo" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">David Niño</span>
     </a>
@@ -149,6 +153,10 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">Curriculum Vitae</span></a>
@@ -208,7 +216,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="post" data-listing-date-sort="1745470800000" data-listing-file-modified-sort="1746894066023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="255">
+<div class="quarto-post image-right" data-index="0" data-categories="post" data-listing-date-sort="1745470800000" data-listing-file-modified-sort="1789072158977" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="255">
 <div class="thumbnail">
 <p><a href="./posts/Principles of confounder selection/index.html" class="no-external"></a></p><a href="./posts/Principles of confounder selection/index.html" class="no-external">
 <p><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/432b/6447501/866ed79dd58d/10654_2019_494_Fig1_HTML.jpg" class="thumbnail-image"></p>
@@ -341,6 +349,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -659,7 +674,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Supported by <a href="https://posit.co/"><img src="https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg" class="img-fluid" alt="Posit" width="65"></a></p>
+<p>Supported by <a href="https://posit.co/"><img src="images/posit-logo.svg" class="img-fluid" alt="Posit" width="65"></a></p>
 </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
@@ -675,10 +690,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </i> 
     </a>
   </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/davidninotorres/">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
 </ul>
     </div>
     <div class="nav-footer-right">
-<p>This blog is developed by David Niño-Torres using <a href="https://quarto.org/">Quarto</a>, an open-source scientific and technical publishing system.</p>
+<p>This site is developed by David Niño-Torres using <a href="https://quarto.org/">Quarto</a>, an open-source scientific and technical publishing system.</p>
 </div>
   </div>
 </footer>
@@ -686,4 +707,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

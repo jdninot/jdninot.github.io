@@ -2,10 +2,25 @@
 title: "Publications"
 toc: true
 toc-depth: 2
+css: styles.css
 ---
 
 > "*You can, for example, never foretell what any one man will do, but you can say with precision what an average number will be up to. Individuals vary, but percentages remain constant. So says the statistician.*" — Sherlock Holmes, The Sign of Four
 
 ## 🔬 Scientific articles
 
--   David Niño-Torres, Andrés Ríos-Gutiérrez, Viswanathan Arunachalam, Comfort Ohajunwa, Padmanabhan Seshaiyer. Stochastic modeling, analysis, and simulation of the COVID-19 pandemic with explicit behavioral changes in Bogotá: A case study, Infectious Disease Modelling. Volume 7, Issue 1, 2022, Pages 199-211, ISSN 2468-0427, <https://doi.org/10.1016/j.idm.2021.12.008>.
+### First author
+
+**Stochastic modeling, analysis, and simulation of the COVID-19 pandemic with explicit behavioral changes in Bogotá: A case study** *Infectious Disease Modelling*, 2022 DOI: [10.1016/j.idm.2021.12.008](https://doi.org/10.1016/j.idm.2021.12.008) **David Niño-Torres**, Andrés Ríos-Gutiérrez, Viswanathan Arunachalam, Comfort Ohajunwa, Padmanabhan Seshaiyer
+
+### Author
+
+**Understanding the community management of long-term physical and mental health conditions in Bolivia, Colombia and Guatemala: a situational analysis** *BMJ Global Health*, 2026 DOI: [10.1136/bmjgh-2025-020466](https://doi.org/10.1136/bmjgh-2025-020466) Juan Camilo Marin-Urrego, Adriana Buitrago-Lopez, Carlos Gomez-Restrepo, Edgar Lopez Alvarez, Ronald Fernando Tapia Pijuan, Lucia Elena Alvarado-Arnez, Estela Tango-Camargo, Yazmin Cadena-Camargo, **David Niño-Torres**, Nelcy Rodriguez-Malagon, et al.
+
+**Screening Accuracy of Reduced Scales PHQ and GAD in Young People Living in Deprived Urban Areas in Bogotá, Buenos Aires and Lima** *Revista Colombiana de Psiquiatría*, 2025 DOI: [10.1016/j.rcp.2025.08.007](https://doi.org/10.1016/j.rcp.2025.08.007) **David Niño-Torres**, Carlos Gomez-Restrepo, Francisco Diez-Canseco, Luis Ignacio Brusco, Diliniya Stanislaus Sureshkumar, Viviana Rodríguez-Romero, Ana L. Vilela-Estrada, Fernando Luis Carbonetti, José Miguel Uribe-Restrepo, Mauricio Toyama, et al.
+
+**Risk and Protective Factors for Depression and Anxiety Among Young People from Deprived Urban Neighbourhoods in South America: A Case-Control Study in Bogotá, Buenos Aires and Lima** *SSRN*, 2023 (preprint) DOI: [10.2139/ssrn.4671831](https://doi.org/10.2139/ssrn.4671831) Gómez-Restrepo, C., Diez-Canseco, F., Brusco, L.I., Jassir Acosta, M.P., Olivar, N., Carbonetti, F.L., Hidalgo-Padilla, L., Toyama, M., Uribe-Restrepo, J.M., Rodríguez Malagon, N., et al.
+
+**Discordant results for ALK based on immunohistochemistry versus fluorescence in situ hybridization in a cohort of patients diagnosed with lung adenocarcinoma** *Revista Española de Patología*, 2023 DOI: [10.1016/j.patol.2023.02.001](https://doi.org/10.1016/j.patol.2023.02.001) Luisa Sará, Ana Shaia Clavijo, Jesus David Niño-Torres, Luisa M. Solarte, Angela Vergara, Olga M. Moreno, Jorge L. Rodríguez, Adriana Rojas
+
+**Data as a tool for regulation and decision-making in telecommunications services: An academy-state innovation experience** *Kalpa Publications in Computing* DOI: [10.29007/s4j3](https://doi.org/10.29007/s4j3) Catalina Garcia, José Suarez, David Niño, Omar Roa, Ana Barbosa, Juan Plazas, Jhon Garcia, Julieth López, Ingrid Picón

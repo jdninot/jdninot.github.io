@@ -67,6 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -79,6 +80,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./dimension.png" alt="David Niño logo" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">David Niño</span>
     </a>
@@ -89,6 +93,10 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">Curriculum Vitae</span></a>
@@ -152,11 +160,20 @@ ul.task-list li input[type="checkbox"] {
 </blockquote>
 <section id="scientific-articles" class="level2">
 <h2 class="anchored" data-anchor-id="scientific-articles">🔬 Scientific articles</h2>
-<ul>
-<li>David Niño-Torres, Andrés Ríos-Gutiérrez, Viswanathan Arunachalam, Comfort Ohajunwa, Padmanabhan Seshaiyer. Stochastic modeling, analysis, and simulation of the COVID-19 pandemic with explicit behavioral changes in Bogotá: A case study, Infectious Disease Modelling. Volume 7, Issue 1, 2022, Pages 199-211, ISSN 2468-0427, <a href="https://doi.org/10.1016/j.idm.2021.12.008" class="uri">https://doi.org/10.1016/j.idm.2021.12.008</a>.</li>
-</ul>
+<section id="first-author" class="level3">
+<h3 class="anchored" data-anchor-id="first-author">First author</h3>
+<p><strong>Stochastic modeling, analysis, and simulation of the COVID-19 pandemic with explicit behavioral changes in Bogotá: A case study</strong> <em>Infectious Disease Modelling</em>, 2022 DOI: <a href="https://doi.org/10.1016/j.idm.2021.12.008">10.1016/j.idm.2021.12.008</a> <strong>David Niño-Torres</strong>, Andrés Ríos-Gutiérrez, Viswanathan Arunachalam, Comfort Ohajunwa, Padmanabhan Seshaiyer</p>
+</section>
+<section id="author" class="level3">
+<h3 class="anchored" data-anchor-id="author">Author</h3>
+<p><strong>Understanding the community management of long-term physical and mental health conditions in Bolivia, Colombia and Guatemala: a situational analysis</strong> <em>BMJ Global Health</em>, 2026 DOI: <a href="https://doi.org/10.1136/bmjgh-2025-020466">10.1136/bmjgh-2025-020466</a> Juan Camilo Marin-Urrego, Adriana Buitrago-Lopez, Carlos Gomez-Restrepo, Edgar Lopez Alvarez, Ronald Fernando Tapia Pijuan, Lucia Elena Alvarado-Arnez, Estela Tango-Camargo, Yazmin Cadena-Camargo, <strong>David Niño-Torres</strong>, Nelcy Rodriguez-Malagon, et al.</p>
+<p><strong>Screening Accuracy of Reduced Scales PHQ and GAD in Young People Living in Deprived Urban Areas in Bogotá, Buenos Aires and Lima</strong> <em>Revista Colombiana de Psiquiatría</em>, 2025 DOI: <a href="https://doi.org/10.1016/j.rcp.2025.08.007">10.1016/j.rcp.2025.08.007</a> <strong>David Niño-Torres</strong>, Carlos Gomez-Restrepo, Francisco Diez-Canseco, Luis Ignacio Brusco, Diliniya Stanislaus Sureshkumar, Viviana Rodríguez-Romero, Ana L. Vilela-Estrada, Fernando Luis Carbonetti, José Miguel Uribe-Restrepo, Mauricio Toyama, et al.</p>
+<p><strong>Risk and Protective Factors for Depression and Anxiety Among Young People from Deprived Urban Neighbourhoods in South America: A Case-Control Study in Bogotá, Buenos Aires and Lima</strong> <em>SSRN</em>, 2023 (preprint) DOI: <a href="https://doi.org/10.2139/ssrn.4671831">10.2139/ssrn.4671831</a> Gómez-Restrepo, C., Diez-Canseco, F., Brusco, L.I., Jassir Acosta, M.P., Olivar, N., Carbonetti, F.L., Hidalgo-Padilla, L., Toyama, M., Uribe-Restrepo, J.M., Rodríguez Malagon, N., et al.</p>
+<p><strong>Discordant results for ALK based on immunohistochemistry versus fluorescence in situ hybridization in a cohort of patients diagnosed with lung adenocarcinoma</strong> <em>Revista Española de Patología</em>, 2023 DOI: <a href="https://doi.org/10.1016/j.patol.2023.02.001">10.1016/j.patol.2023.02.001</a> Luisa Sará, Ana Shaia Clavijo, Jesus David Niño-Torres, Luisa M. Solarte, Angela Vergara, Olga M. Moreno, Jorge L. Rodríguez, Adriana Rojas</p>
+<p><strong>Data as a tool for regulation and decision-making in telecommunications services: An academy-state innovation experience</strong> <em>Kalpa Publications in Computing</em> DOI: <a href="https://doi.org/10.29007/s4j3">10.29007/s4j3</a> Catalina Garcia, José Suarez, David Niño, Omar Roa, Ana Barbosa, Juan Plazas, Jhon Garcia, Julieth López, Ingrid Picón</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -255,6 +272,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -573,7 +597,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Supported by <a href="https://posit.co/"><img src="https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg" class="img-fluid" alt="Posit" width="65"></a></p>
+<p>Supported by <a href="https://posit.co/"><img src="images/posit-logo.svg" class="img-fluid" alt="Posit" width="65"></a></p>
 </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
@@ -589,10 +613,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </i> 
     </a>
   </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/davidninotorres/">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
 </ul>
     </div>
     <div class="nav-footer-right">
-<p>This blog is developed by David Niño-Torres using <a href="https://quarto.org/">Quarto</a>, an open-source scientific and technical publishing system.</p>
+<p>This site is developed by David Niño-Torres using <a href="https://quarto.org/">Quarto</a>, an open-source scientific and technical publishing system.</p>
 </div>
   </div>
 </footer>
@@ -600,4 +630,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

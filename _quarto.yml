@@ -1,13 +1,17 @@
 project:
   type: website
-
+ 
 website:
   title: "David Niño"
   favicon: "dimension.png"
   navbar:
     background: "#1A2E40"
     foreground: "#FDFEFE"
+    logo: "dimension.png"
+    logo-alt: "David Niño logo"
     right:
+      - text: "Home"
+        file: index.qmd
       - text: "Curriculum Vitae"
         file: cv.qmd
       - text: "Publications"
@@ -17,34 +21,36 @@ website:
       - text: "Photos"
         file: photos.qmd
   page-footer:
-    background: "#ECF0F1"
-    foreground: "#2C3E50"
-    center: 
+    background: "#EDF3F8"
+    foreground: "#223C53"
+    border: false
+    center:
       - icon: github
         href: https://github.com/
       - icon: google
         href: https://scholar.google.com/citations?user=igCiJo0AAAAJ&hl=es
+      - icon: linkedin
+        href: https://www.linkedin.com/in/davidninotorres/
     right: |
-      This blog is developed by David Niño-Torres using [Quarto](https://quarto.org/), an open-source scientific and technical publishing system.
+      This site is developed by David Niño-Torres using [Quarto](https://quarto.org/), an open-source scientific and technical publishing system.
     left: |
-      Supported by [![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){fig-alt="Posit" width=65px}](https://posit.co/)
-
+      Supported by [![](images/posit-logo.svg){fig-alt="Posit" width=65px}](https://posit.co/)
+      
 format:
   html:
-    theme: Morph
-    mainfont: "sans-serif"
-    monofont: "sans-serif"
-    fontsize: 0.9rem
-    fontcolor: "#2C3E50"
-    linkcolor: "#7D3C98"
-    backgroundcolor: "#FDFEFE"
+    theme: morph
+    css: styles.css
+    mainfont: "Source Sans Pro"
+    monofont: "Fira Code"
+    fontsize: 1rem
+    linkcolor: "#3D6B94"
+    backgroundcolor: "#FFFFFF"
     toc: true
     toc-depth: 2
-    css: styles.css
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+ 
 editor: visual
 
-
-# header {
-#   border-bottom: 1px solid #ccc;
-# }
 

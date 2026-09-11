@@ -1,7 +1,6 @@
 ---
 title: "David Niño-Torres"
-subtitle: |
-  Statistician/Photographer
+subtitle: "Thought, Conscience, Dreams | ⟨Bio⟩ Statistician, B.Sc., M.Sc. | X ~  Gumbel(μ, β)."
 image: Photo.jpg
 about:
   id: hero-heading
@@ -10,7 +9,7 @@ about:
   links:
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=igCiJo0AAAAJ&hl=es
+      href: https://scholar.google.com/citations?user=FHQrPpIAAAAJ&hl=en
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/davidninotorres/
@@ -19,12 +18,23 @@ about:
       href: https://github.com/jdninot
 ---
 
+> *"You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make."* — Jane Goodall
+
 ### About me
 
-I am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontifical Javierian University.
+I am a biostatistician with a keen interest in understanding complex population processes — particularly within the field of health — through mathematical and statistical modelling.
 
-My research interests lie in the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference, particularly in the fields of demography, epidemiology, genomics, and environmental studies.
+**Statistical Interests:**
 
-Outside of work, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and reading philosophy 📚.
+- Stochastic Processes
+- Bayesian Statistics
+- Longitudinal Models
+- Statistical Learning
 
-> *"You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make" — Jane Goodal.*
+**Areas of Application:**
+
+- Epidemiology and Demography: Mortality, Migration, Health Inequities, Non-communicable Diseases (NCDs), Substance Use, Infectious Diseases, and Environmental Health
+
+I have experience in data cleaning, analysis and visualisation, with a strong focus on reproducibility and automation, using tools such as GitHub and statistical programming languages including R and Python.
+
+Also, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚.

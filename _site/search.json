@@ -4,7 +4,14 @@
     "href": "about.html",
     "title": "David Niño-Torres",
     "section": "",
-    "text": "About me\nI am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontificia Universidad Javeriana.\nMy research interests focus on the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference in the areas of global health, epidemiology, demography, genomics, and environmental studies.\nAlso, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚.\n\n“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make” — Jane Goodal."
+    "text": "“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.” — Jane Goodall\n\n\nAbout me\nI am a biostatistician with a keen interest in understanding complex population processes — particularly within the field of health — through mathematical and statistical modelling.\nStatistical Interests:\n\nStochastic Processes\nBayesian Statistics\nLongitudinal Models\nStatistical Learning\n\nAreas of Application:\n\nEpidemiology and Demography\n\nMortality\nMigration\nSubstance Use\nInfectious Diseases\nClimate Change\n\n\nI have experience in data cleaning, analysis and visualisation, with a strong focus on reproducibility and automation, using tools such as GitHub and statistical programming languages including R and Python.\nAlso, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David Niño-Torres",
+    "section": "",
+    "text": "“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.” — Jane Goodall\n\n\nAbout me\nI am a biostatistician with a keen interest in understanding complex population processes — particularly within the field of health — through mathematical and statistical modelling.\nStatistical Interests:\n\nStochastic Processes\nBayesian Statistics\nLongitudinal Models\nStatistical Learning\n\nAreas of Application:\n\nEpidemiology and Demography: Mortality, Migration, Health Inequities, Non-communicable Diseases (NCDs), Substance Use, Infectious Diseases, and Environmental Health\n\nI have experience in data cleaning, analysis and visualisation, with a strong focus on reproducibility and automation, using tools such as GitHub and statistical programming languages including R and Python.\nAlso, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚."
   },
   {
     "objectID": "cv.html",
@@ -18,35 +25,35 @@
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "🏛️ Education",
-    "text": "🏛️ Education\nPontificia Universidad Javeriana, Bogotá D.C, Colombia\nMSc in Biostatistics, 2024 – Present\nRelevant coursework: Epidemiology, Longitudinal Models, Health Economics, Advanced Topics in Biostatistics\nUniversidad Nacional de Colombia, Bogotá D.C, Colombia\nBSc in Statistics, 2014 – 2021\nRelevant coursework: Spatial Statistics, Bayesian Statistics, Stochastic Processes, Demography\nThesis: Stochastic Modelling of the COVID-19 Pandemic with Explicit Behavioural Changes in Bogotá: A Case Study\nSupervisors: Liliana Blanco & Viswanathan Arunachalam"
+    "text": "🏛️ Education\nPontificia Universidad Javeriana, Bogotá D.C, Colombia\nMSc in Biostatistics, 2024 – 2026\nRelevant coursework: Longitudinal data analysis, Categorical data analysis, Advanced biostatistical methods, Epidemiology, and Health economics.\nThesis: Transitions in illicit drug use among youth: an analysis using a latent Markov model\nSupervisors: Nelcy Rodríguez Malagón, Carlos Gómez Restrepo.\nUniversidad Nacional de Colombia, Bogotá D.C, Colombia\nBSc in Statistics, 2014 – 2021\nRelevant coursework: Spatial Statistics, Bayesian Statistics, Stochastic Processes, Regression analysis, Demography.\nThesis: Stochastic modelling of the COVID-19 pandemic with explicit behavioural changes in Bogotá: a case study\nSupervisors: Liliana Blanco, Viswanathan Arunachalam."
   },
   {
     "objectID": "cv.html#research-experience",
     "href": "cv.html#research-experience",
     "title": "Curriculum Vitae",
     "section": "🔬 Research experience",
-    "text": "🔬 Research experience\nPontificia Universidad Javeriana, Faculty of Medicine, Bogotá D.C, Colombia\nResearch Assistant: Statistician, 2023 – 2025\nDepartment of Clinical Epidemiology and Biostatistics\n- NIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America\n- Processed and analysed sociodemographic and epidemiological data from official sources\n- Produced interactive visualisations and national/regional trend reports\n- OLA Study: Mental Health among Youth in Latin America\n- Cleaned and processed baseline and cohort data\n- Conducted stratified analyses and fitted generalised linear and longitudinal models\n- Drafted reports and contributed to article writing\nNIHR LATAM Centre, OLA Study\nUniversidad Nacional de Colombia, Faculty of Engineering, Bogotá D.C, Colombia\nResearch Assistant: Statistician, 2021 – 2022\nLAB101 - Innovation, Creativity, and New Technologies Laboratory\n- Analysed and visualised data on internet service quality in collaboration with CRC\n- Developed indicators for digital transformation in higher education\n- Provided data analysis training and statistical consulting for a project with Bogotá’s city council\n- Applied deep learning techniques for data analysis and automation\nLAB101 UNAL"
+    "text": "🔬 Research experience\nPontificia Universidad Javeriana, Faculty of Medicine, Bogotá D.C, Colombia\nResearch Assistant: Statistician, 2023 – Present\nDepartment of Clinical Epidemiology and Biostatistics\nNIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America NIHR LATAM Centre\n\nPerformed sociodemographic and epidemiological analyses of specific departments in Colombia using national data sources (DANE and SISPRO) in R: Cleaned, integrated, and visualised data for research reports.\nDesigned and delivered quantitative data analysis workshops in R for researchers.\nContributed to the development of the statistical analysis plan and the design of REDCap databases for data collection in a cluster-randomized and site-stratified randomized trials.\n\nOLA Study: Mental Health among Youth in Latin America OLA Study\n\nManaged the end-to-end analysis of baseline and cohort sociodemographic and psychosocial data, including data processing and cleaning, statistical modelling using generalized linear and longitudinal models, and the preparation of research reports and contributions to scientific manuscript writing.\n\nUniversidad Nacional de Colombia, Faculty of Engineering, Bogotá D.C, Colombia\nResearch Assistant: Statistician, 2021 – 2023\nLAB101 - Innovation, Creativity, and New Technologies Laboratory LAB101 UNAL\n\nAnalysed and visualised data on internet service quality in collaboration with Colombia’s Communications Regulation Commission (CRC)\nDesigned indicators to assess the digital transformation process at Universidad Nacional de Colombia\nProvided consulting on data analysis, statistical modelling, and geospatial analysis for projects with Bogotá’s city council\nApplied deep learning techniques for data automation and analysis"
   },
   {
     "objectID": "cv.html#academic-experience",
     "href": "cv.html#academic-experience",
     "title": "Curriculum Vitae",
     "section": "🏫 Academic experience",
-    "text": "🏫 Academic experience\nUniversidad Nacional de Colombia, Department of Statistics, Bogotá D.C, Colombia\nStudent Assistant, 2019 – 2022\nStochastic Processes Research Group\n- Processed and cleaned COVID-19 surveillance data\n- Implemented Markov chains and stochastic differential equations to project pandemic scenarios\nUniversidad Nacional de Colombia, Institute of Urban Studies, Bogotá D.C, Colombia\nStudent Assistant, 2021\n- Supported a seminar on global cities, industries, and market chains\n- Prepared course materials, developed graphics and calculations, and reviewed student assignments"
+    "text": "🏫 Academic experience\nUniversidad Nacional de Colombia, Department of Statistics, Bogotá D.C, Colombia\nStudent Assistant, 2019 – 2022\nStochastic Processes Research Group\n\nProcessed and cleaned COVID-19 surveillance data\nImplemented Markov chains and stochastic differential equations to project the evolution of the pandemic in Bogotá"
   },
   {
     "objectID": "cv.html#skills-and-interests",
     "href": "cv.html#skills-and-interests",
     "title": "Curriculum Vitae",
     "section": "🧠 Skills and Interests",
-    "text": "🧠 Skills and Interests\nTechnical Skills: R (advanced), Python (intermediate), SAS (basic), SQL (basic)\nLanguages: Spanish (native), English (A1)\nStatistical Interests: Bayesian statistics, stochastic processes, multilevel modelling, statistical learning, and causal inference\nApplication Areas: migration, mortality, historical demography, genomics, substance use epidemiology, environmental studies, and the application of artificial intelligence in health\nHobbies: Photography, reading, running, swimming"
+    "text": "🧠 Skills and Interests\nTechnical Skills: R (advanced), Python (intermediate), SAS (basic), SQL (basic)\nLanguages: Spanish (native), English (A2)"
   },
   {
     "objectID": "cv.html#certifications",
     "href": "cv.html#certifications",
     "title": "Curriculum Vitae",
     "section": "📜 Certifications",
-    "text": "📜 Certifications\nInfectious Disease Modelling Specialisation, 2020\nImperial College London (Coursera) - Credential ID: PQYP8CKJFYS3\n- SIR model development, interventions, and calibration\n\nTensorFlow Developer Professional Certificate, 2020\nDeepLearning.AI (Coursera) - Credential ID: MPC3F53UD7QX\n- AI, machine learning, and deep learning using TensorFlow\n- Convolutional Neural Networks, NLP, time series, and forecasting"
+    "text": "📜 Certifications\nEpidemiology for Public Health Specialisation, 2026\nImperial College London (Coursera) — Credential ID: 5YZVOX9FCTSN\n\nMeasuring Disease in Epidemiology, Study Designs in Epidemiology, and Validity and Bias in Epidemiology\n\nInfectious Disease Modelling Specialisation, 2020\nImperial College London (Coursera) - Credential ID: PQYP8CKJFYS3\n\nSIR model development, interventions, and calibration\n\nTensorFlow Developer Professional Certificate, 2020\nDeepLearning.AI (Coursera) - Credential ID: MPC3F53UD7QX\n\nAI, machine learning, and deep learning using TensorFlow\nConvolutional Neural Networks, NLP, time series, and forecasting"
   },
   {
     "objectID": "publications.html",
@@ -60,35 +67,21 @@
     "href": "publications.html#scientific-articles",
     "title": "Publications",
     "section": "🔬 Scientific articles",
-    "text": "🔬 Scientific articles\n\nDavid Niño-Torres, Andrés Ríos-Gutiérrez, Viswanathan Arunachalam, Comfort Ohajunwa, Padmanabhan Seshaiyer. Stochastic modeling, analysis, and simulation of the COVID-19 pandemic with explicit behavioral changes in Bogotá: A case study, Infectious Disease Modelling. Volume 7, Issue 1, 2022, Pages 199-211, ISSN 2468-0427, https://doi.org/10.1016/j.idm.2021.12.008."
-  },
-  {
-    "objectID": "publications.html#science-outreach-articles",
-    "href": "publications.html#science-outreach-articles",
-    "title": "Publications",
-    "section": "📣 Science outreach articles",
-    "text": "📣 Science outreach articles"
+    "text": "🔬 Scientific articles\n\nFirst author\nStochastic modeling, analysis, and simulation of the COVID-19 pandemic with explicit behavioral changes in Bogotá: A case study Infectious Disease Modelling, 2022 DOI: 10.1016/j.idm.2021.12.008 David Niño-Torres, Andrés Ríos-Gutiérrez, Viswanathan Arunachalam, Comfort Ohajunwa, Padmanabhan Seshaiyer\n\n\nAuthor\nUnderstanding the community management of long-term physical and mental health conditions in Bolivia, Colombia and Guatemala: a situational analysis BMJ Global Health, 2026 DOI: 10.1136/bmjgh-2025-020466 Juan Camilo Marin-Urrego, Adriana Buitrago-Lopez, Carlos Gomez-Restrepo, Edgar Lopez Alvarez, Ronald Fernando Tapia Pijuan, Lucia Elena Alvarado-Arnez, Estela Tango-Camargo, Yazmin Cadena-Camargo, David Niño-Torres, Nelcy Rodriguez-Malagon, et al.\nScreening Accuracy of Reduced Scales PHQ and GAD in Young People Living in Deprived Urban Areas in Bogotá, Buenos Aires and Lima Revista Colombiana de Psiquiatría, 2025 DOI: 10.1016/j.rcp.2025.08.007 David Niño-Torres, Carlos Gomez-Restrepo, Francisco Diez-Canseco, Luis Ignacio Brusco, Diliniya Stanislaus Sureshkumar, Viviana Rodríguez-Romero, Ana L. Vilela-Estrada, Fernando Luis Carbonetti, José Miguel Uribe-Restrepo, Mauricio Toyama, et al.\nRisk and Protective Factors for Depression and Anxiety Among Young People from Deprived Urban Neighbourhoods in South America: A Case-Control Study in Bogotá, Buenos Aires and Lima SSRN, 2023 (preprint) DOI: 10.2139/ssrn.4671831 Gómez-Restrepo, C., Diez-Canseco, F., Brusco, L.I., Jassir Acosta, M.P., Olivar, N., Carbonetti, F.L., Hidalgo-Padilla, L., Toyama, M., Uribe-Restrepo, J.M., Rodríguez Malagon, N., et al.\nDiscordant results for ALK based on immunohistochemistry versus fluorescence in situ hybridization in a cohort of patients diagnosed with lung adenocarcinoma Revista Española de Patología, 2023 DOI: 10.1016/j.patol.2023.02.001 Luisa Sará, Ana Shaia Clavijo, Jesus David Niño-Torres, Luisa M. Solarte, Angela Vergara, Olga M. Moreno, Jorge L. Rodríguez, Adriana Rojas\nData as a tool for regulation and decision-making in telecommunications services: An academy-state innovation experience Kalpa Publications in Computing DOI: 10.29007/s4j3 Catalina Garcia, José Suarez, David Niño, Omar Roa, Ana Barbosa, Juan Plazas, Jhon Garcia, Julieth López, Ingrid Picón"
   },
   {
     "objectID": "photos.html",
     "href": "photos.html",
     "title": "Photos",
     "section": "",
-    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” ― Ansel Adams"
+    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” — Ansel Adams\n\n\n\n\nCargando fotos…\n\n\n\n\n\n\nVer galería completa en Flickr →"
   },
   {
     "objectID": "photos.html#through-lens",
     "href": "photos.html#through-lens",
     "title": "Photos",
     "section": "",
-    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” ― Ansel Adams"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "David Niño-Torres",
-    "section": "",
-    "text": "About me\nI am a statistician with a background in health data research, currently working as a research assistant in statistics at the Department of Clinical Epidemiology and Biostatistics, Pontifical Javierian University.\nMy research interests lie in the development and application of Bayesian statistics, stochastic processes, multilevel models, statistical learning, and causal inference, particularly in the fields of demography, epidemiology, genomics, and environmental studies.\nOutside of work, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and reading philosophy 📚.\n\n“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make” — Jane Goodal."
+    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” — Ansel Adams\n\n\n\n\nCargando fotos…\n\n\n\n\n\n\nVer galería completa en Flickr →"
   },
   {
     "objectID": "bioepi.html",
