@@ -1,14 +1,16 @@
 project:
   type: website
- 
+
 website:
   title: "David Niño"
-  favicon: "dimension.png"
+  # favicon: "dimension.png"
   navbar:
     background: "#1A2E40"
     foreground: "#FDFEFE"
-    logo: "dimension.png"
+    # logo: "dimension.png"
     logo-alt: "David Niño logo"
+    search: true
+    border: true
     right:
       - text: "Home"
         file: index.qmd
@@ -23,7 +25,7 @@ website:
   page-footer:
     background: "#EDF3F8"
     foreground: "#223C53"
-    border: false
+    border: true
     center:
       - icon: github
         href: https://github.com/
@@ -32,10 +34,17 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/davidninotorres/
     right: |
-      This site is developed by David Niño-Torres using [Quarto](https://quarto.org/), an open-source scientific and technical publishing system.
+      <span> This site is developed by David Niño-Torres using {{< fa brands r-project >}} and [Quarto](https://quarto.org/), an open-source scientific and technical publishing system </span>
     left: |
-      Supported by [![](images/posit-logo.svg){fig-alt="Posit" width=65px}](https://posit.co/)
-      
+      <span>
+        Supported by <a href="https://posit.co/">
+        <img src="images/posit-logo.svg" alt="Posit" height="16" style="vertical-align: middle;"/>
+        </a>
+      </span>
+
+filters:
+  - fontawesome
+
 format:
   html:
     theme: morph
@@ -50,7 +59,7 @@ format:
     smooth-scroll: true
     link-external-icon: true
     link-external-newwindow: true
- 
+
 editor: visual
 
 

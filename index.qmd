@@ -35,6 +35,4 @@ I am a biostatistician with a keen interest in understanding complex population 
 
 - Epidemiology and Demography: Mortality, Migration, Health Inequities, Non-communicable Diseases (NCDs), Substance Use, Infectious Diseases, and Environmental Health
 
-I have experience in data cleaning, analysis and visualisation, with a strong focus on reproducibility and automation, using tools such as GitHub and statistical programming languages including R and Python.
-
 Also, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚.
