@@ -15,11 +15,11 @@ css: styles.css
 
 ### Author
 
+**Recovery from mental distress in youths in low-income urban areas in South America** *Social Psychiatry and Psychiatric Epidemiology*, 2026 DOI: [10.1007/s00127-026-03204-2]( http://dx.doi.org/10.1007/s00127-026-03204-2) Stefan Priebe, Catherine Fung, Luis Ignacio Brusco, Francisco Diez-Canseco, Carlos Gómez-Restrepo, Ricardo Araya, Fernando Luis Carbonetti, Natalia Godoy-Casasbuenas, James B. Kirkbride, Craig Morgan, **David Niño-Torres**, Natividad Olivar, Diliniya Stanislaus Sureshkumar, Mauricio Toyama, José Miguel Uribe-Restrepo, Ana Lucia Vilela-Estrada, Paul Bassett, Victoria Bird
+
 **Understanding the community management of long-term physical and mental health conditions in Bolivia, Colombia and Guatemala: a situational analysis** *BMJ Global Health*, 2026 DOI: [10.1136/bmjgh-2025-020466](https://doi.org/10.1136/bmjgh-2025-020466) Juan Camilo Marin-Urrego, Adriana Buitrago-Lopez, Carlos Gomez-Restrepo, Edgar Lopez Alvarez, Ronald Fernando Tapia Pijuan, Lucia Elena Alvarado-Arnez, Estela Tango-Camargo, Yazmin Cadena-Camargo, **David Niño-Torres**, Nelcy Rodriguez-Malagon, et al.
 
 **Screening Accuracy of Reduced Scales PHQ and GAD in Young People Living in Deprived Urban Areas in Bogotá, Buenos Aires and Lima** *Revista Colombiana de Psiquiatría*, 2025 DOI: [10.1016/j.rcp.2025.08.007](https://doi.org/10.1016/j.rcp.2025.08.007) **David Niño-Torres**, Carlos Gomez-Restrepo, Francisco Diez-Canseco, Luis Ignacio Brusco, Diliniya Stanislaus Sureshkumar, Viviana Rodríguez-Romero, Ana L. Vilela-Estrada, Fernando Luis Carbonetti, José Miguel Uribe-Restrepo, Mauricio Toyama, et al.
-
-**Risk and Protective Factors for Depression and Anxiety Among Young People from Deprived Urban Neighbourhoods in South America: A Case-Control Study in Bogotá, Buenos Aires and Lima** *SSRN*, 2023 (preprint) DOI: [10.2139/ssrn.4671831](https://doi.org/10.2139/ssrn.4671831) Gómez-Restrepo, C., Diez-Canseco, F., Brusco, L.I., Jassir Acosta, M.P., Olivar, N., Carbonetti, F.L., Hidalgo-Padilla, L., Toyama, M., Uribe-Restrepo, J.M., Rodríguez Malagon, N., et al.
 
 **Discordant results for ALK based on immunohistochemistry versus fluorescence in situ hybridization in a cohort of patients diagnosed with lung adenocarcinoma** *Revista Española de Patología*, 2023 DOI: [10.1016/j.patol.2023.02.001](https://doi.org/10.1016/j.patol.2023.02.001) Luisa Sará, Ana Shaia Clavijo, Jesus David Niño-Torres, Luisa M. Solarte, Angela Vergara, Olga M. Moreno, Jorge L. Rodríguez, Adriana Rojas
 
