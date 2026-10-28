@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "posts/Principles of confounder selection/index.html",
-    "href": "posts/Principles of confounder selection/index.html",
-    "title": "Principles of confounder selection - Tyler J VanderWeele",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "David Niño-Torres",
     "section": "",
-    "text": "Confounding by covariates C of the relationship between exposure A and outcome Y\n\n\nThe article “Principles of Confounder Selection”, by Tyler J. VanderWeele, published in the European Journal of Epidemiology in 2019 (PMCID: PMC6447501 PMID: 30840181), highlights the importance of correctly selecting confounding factors in observational studies to make valid causal inferences. VanderWeele proposes a practical approach based on identifying variables that are causes of the exposure, the outcome, or both, and suggests excluding those that act as instrumental variables. He also considers the inclusion of proxies for unmeasured variables that may be common causes. The article seeks to balance the need to control confounding factors while avoiding the introduction of additional biases, especially in contexts where the causal structure is not fully understood.\nAdditionally, statistical strategies for selecting covariates in causal studies are discussed, including traditional methods such as forward/backward selection and changes in estimation, as well as more recent approaches like HDPS (High-Dimensional Propensity Scores) and machine learning techniques. It is emphasised that, despite methodological advances, substantive knowledge remains crucial for good selection.\nFrom my experience, this article was a real gateway into the world of causal inference. I found it valuable not only for its conceptual clarity but also because VanderWeele effectively tackles a complex issue with well-grounded and practical recommendations. I consider it essential reading for those starting to face the challenge of controlling for confounding in observational studies, and a reference I return to frequently. Without a doubt, it is one of those works that leaves a lasting impact on anyone interested in causality."
+    "text": "“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.” — Jane Goodall\n\n\nAbout me\nI am a biostatistician with a keen interest in unravelling complex population processes—particularly within the field of health—through mathematical and statistical modelling.\nStatistical Interests:\n\nBayesian Statistics\nLongitudinal Models\nStatistical Learning\nStochastic Processes\n\nAreas of Application:\n\nEpidemiology and Demography: Mortality, Migration, Health Inequities, Non-communicable Diseases (NCDs), Substance Use, Infectious Diseases, and Environmental Health\n\nAlso, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚."
   },
   {
     "objectID": "cv.html",
@@ -24,15 +24,8 @@
     "objectID": "cv.html#research-experience",
     "href": "cv.html#research-experience",
     "title": "Curriculum Vitae",
-    "section": "🔬 Research experience",
-    "text": "🔬 Research experience\nPontificia Universidad Javeriana, Faculty of Medicine, Bogotá D.C, Colombia\nResearch Assistant: Statistician, 2023 – Present\nDepartment of Clinical Epidemiology and Biostatistics\nNIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America NIHR LATAM Centre\n\nPerformed sociodemographic and epidemiological analyses of specific departments in Colombia using national data sources (DANE and SISPRO) in R: Cleaned, integrated, and visualised data for research reports.\nDesigned and delivered quantitative data analysis workshops in R for researchers.\nContributed to the development of the statistical analysis plan and the design of REDCap databases for data collection in a cluster-randomized and site-stratified randomized trials.\n\nOLA Study: Mental Health among Youth in Latin America OLA Study\n\nManaged the end-to-end analysis of baseline and cohort sociodemographic and psychosocial data, including data processing and cleaning, statistical modelling using generalized linear and longitudinal models, and the preparation of research reports and contributions to scientific manuscript writing.\n\nUniversidad Nacional de Colombia, Faculty of Engineering, Bogotá D.C, Colombia\nResearch Assistant: Statistician, 2021 – 2023\nLAB101 - Innovation, Creativity, and New Technologies Laboratory LAB101 UNAL\n\nAnalysed and visualised data on internet service quality in collaboration with Colombia’s Communications Regulation Commission (CRC)\nDesigned indicators to assess the digital transformation process at Universidad Nacional de Colombia\nProvided consulting on data analysis, statistical modelling, and geospatial analysis for projects with Bogotá’s city council\nApplied deep learning techniques for data automation and analysis"
-  },
-  {
-    "objectID": "cv.html#academic-experience",
-    "href": "cv.html#academic-experience",
-    "title": "Curriculum Vitae",
-    "section": "🏫 Academic experience",
-    "text": "🏫 Academic experience\nUniversidad Nacional de Colombia, Department of Statistics, Bogotá D.C, Colombia\nStudent Assistant, 2019 – 2022\nStochastic Processes Research Group\n\nProcessed and cleaned COVID-19 surveillance data\nImplemented Markov chains and stochastic differential equations to project the evolution of the pandemic in Bogotá"
+    "section": "🔬 Research Experience",
+    "text": "🔬 Research Experience\nPontificia Universidad Javeriana, Faculty of Medicine, Bogotá, D.C., Colombia\nResearch Assistant (Statistician), 2023–Present\nDepartment of Clinical Epidemiology and Biostatistics\nNIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America (NIHR LATAM Centre)\n\nConduct sociodemographic and epidemiological analyses of selected departments in Colombia using national data sources (DANE and SISPRO). Clean, integrate, and visualise data for research reports.\nDesign and deliver quantitative data analysis workshops in R for researchers.\nContribute to the development of statistical analysis plans and the design of REDCap databases for data collection in cluster-randomised and site-stratified randomised trials.\n\nOLA Study: Mental Health among Youth in Latin America (OLA Study)\n\nManage and analyse baseline and longitudinal cohort data on sociodemographic and psychosocial characteristics. Perform data processing and cleaning, fit generalised linear and longitudinal models, prepare research reports, and contribute to scientific manuscripts.\n\nUniversidad Nacional de Colombia, Faculty of Engineering, Bogotá, D.C., Colombia\nResearch Assistant (Statistician), 2021–2023\nLAB101 – Innovation, Creativity, and New Technologies Laboratory (LAB101 UNAL)\n\nAnalysed and visualised internet service quality data in collaboration with Colombia’s Communications Regulation Commission (CRC).\nDeveloped indicators to assess the digital transformation process at Universidad Nacional de Colombia.\nProvided consultancy on data analysis, statistical modelling, and geospatial analysis for projects with Bogotá City Council.\nApplied deep learning techniques for data automation and analysis.\n\nUniversidad Nacional de Colombia, Department of Statistics, Bogotá, D.C., Colombia\nStudent Assistant, 2019–2022\nStochastic Processes Research Group\n\nProcessed and cleaned COVID-19 surveillance data.\nImplemented Markov chains and stochastic differential equations to project the evolution of the pandemic in Bogotá."
   },
   {
     "objectID": "cv.html#skills-and-interests",
@@ -49,18 +42,53 @@
     "text": "📜 Certifications\nEpidemiology for Public Health Specialisation, 2026\nImperial College London (Coursera) — Credential ID: 5YZVOX9FCTSN\n\nMeasuring Disease in Epidemiology, Study Designs in Epidemiology, and Validity and Bias in Epidemiology\n\nInfectious Disease Modelling Specialisation, 2020\nImperial College London (Coursera) - Credential ID: PQYP8CKJFYS3\n\nSIR model development, interventions, and calibration\n\nTensorFlow Developer Professional Certificate, 2020\nDeepLearning.AI (Coursera) - Credential ID: MPC3F53UD7QX\n\nAI, machine learning, and deep learning using TensorFlow\nConvolutional Neural Networks, NLP, time series, and forecasting"
   },
   {
-    "objectID": "bioepi.html",
-    "href": "bioepi.html",
-    "title": "BioEpi Insights",
+    "objectID": "photos.html",
+    "href": "photos.html",
+    "title": "Photos",
     "section": "",
-    "text": "Principles of confounder selection - Tyler J VanderWeele\n\n\n\npost\n\n\n\n\n\n\n\n\n\nApr 24, 2025\n\n\nDavid Niño\n\n\n\n\n\nNo matching items"
+    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” — Ansel Adams\n\n\n\n\nCargando fotos…\n\n\n\n\n\n\nVer galería completa en Flickr →"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "David Niño-Torres",
+    "objectID": "photos.html#through-lens",
+    "href": "photos.html#through-lens",
+    "title": "Photos",
     "section": "",
-    "text": "“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.” — Jane Goodall\n\n\nAbout me\nI am a biostatistician with a keen interest in unravelling complex population processes—particularly within the field of health—through mathematical and statistical modelling.\nStatistical Interests:\n\nStochastic Processes\nBayesian Statistics\nLongitudinal Models\nStatistical Learning\n\nAreas of Application:\n\nEpidemiology and Demography: Mortality, Migration, Health Inequities, Non-communicable Diseases (NCDs), Substance Use, Infectious Diseases, and Environmental Health\n\nAlso, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚."
+    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” — Ansel Adams\n\n\n\n\nCargando fotos…\n\n\n\n\n\n\nVer galería completa en Flickr →"
+  },
+  {
+    "objectID": "posts/Public Data Sources/index.html",
+    "href": "posts/Public Data Sources/index.html",
+    "title": "Public Data Sources for Research and Statistical Analysis",
+    "section": "",
+    "text": "This post compiles a selection of public data sources for research and statistical analysis. The resources cover environmental and biodiversity data, geological information, geographic datasets, demographic statistics, socioeconomic indicators, and educational information. They include national and regional sources from Colombia, Germany, and other European countries, as well as international statistical databases and methodological resources for epidemiological analysis."
+  },
+  {
+    "objectID": "posts/Public Data Sources/index.html#colombia",
+    "href": "posts/Public Data Sources/index.html#colombia",
+    "title": "Public Data Sources for Research and Statistical Analysis",
+    "section": "Colombia",
+    "text": "Colombia\n\nInstituto de Investigación de Recursos Biológicos Alexander von Humboldt\nProvides data and tools related to biodiversity, ecosystems, and environmental monitoring in Colombia.\n\nBiomodelos: Species distribution models and information on the potential geographic presence of species.\nGeoNetwork: Catalogue of geographic datasets and associated metadata.\nCeiba: Information infrastructure for biodiversity and environmental data.\n\n\n\nServicio Geológico Colombiano (SGC)\n\nGeological Data Catalogue: Geological and geophysical information, including mineral resources, seismic activity, and volcanic hazards.\n\n\n\nInstituto Geográfico Agustín Codazzi (IGAC)\n\nColombia en Mapas: Geographic information, base maps, administrative boundaries, land use, and cadastral data.\n\n\n\nDepartamento Administrativo Nacional de Estadística (DANE)\n\nPopulation and Housing Census: Census data on population, housing, and socioeconomic characteristics.\n\n\n\nMinistry of Education\n\nHigher Education Programmes: Information on higher education programmes and institutional quality indicators."
+  },
+  {
+    "objectID": "posts/Public Data Sources/index.html#international-and-european-data-sources",
+    "href": "posts/Public Data Sources/index.html#international-and-european-data-sources",
+    "title": "Public Data Sources for Research and Statistical Analysis",
+    "section": "International and European Data Sources",
+    "text": "International and European Data Sources\n\nEconomic Commission for Latin America and the Caribbean (ECLAC/CEPAL)\n\nCEPALSTAT: Regional socioeconomic indicators, including poverty, employment, education, and gross domestic product.\n\n\n\nFederal Statistical Office of Germany (Destatis)\n\nDestatis: Official statistics on population, the economy, and industry in Germany.\nBerlin-Brandenburg Statistics: Regional and local statistical data for Berlin and Brandenburg.\nArcGIS Hub Dataset: Open geospatial dataset for regional or urban analysis.\n\n\n\nEuroGeographics\n\nAccess Data Portal: Access to harmonised geospatial datasets covering European countries.\n\n\n\nEurostat\n\nEurostat Data Browser: Statistical data on population, social conditions, the economy, and other topics across the European Union.\nRegional Statistics: Subnational statistical data for regional comparisons."
+  },
+  {
+    "objectID": "posts/Public Data Sources/index.html#methodological-resource",
+    "href": "posts/Public Data Sources/index.html#methodological-resource",
+    "title": "Public Data Sources for Research and Statistical Analysis",
+    "section": "Methodological Resource",
+    "text": "Methodological Resource\n\nEpiR Handbook\n\nEpiR Handbook: Practical guidance on epidemiological data analysis, including data management, statistical methods, and examples in R.\nDescriptive Tables: Guidance and examples for producing descriptive tables in epidemiological research.\n\nThese resources can support the identification, collection, and analysis of public data for demographic, socioeconomic, environmental, geographic, and public health research. Data availability, geographic coverage, and access conditions may vary across sources."
+  },
+  {
+    "objectID": "posts/Principles of confounder selection/index.html",
+    "href": "posts/Principles of confounder selection/index.html",
+    "title": "Principles of confounder selection - Tyler J VanderWeele",
+    "section": "",
+    "text": "Confounding by covariates C of the relationship between exposure A and outcome Y\n\n\nThe article “Principles of Confounder Selection”, by Tyler J. VanderWeele, published in the European Journal of Epidemiology in 2019 (PMCID: PMC6447501 PMID: 30840181), highlights the importance of correctly selecting confounding factors in observational studies to make valid causal inferences. VanderWeele proposes a practical approach based on identifying variables that are causes of the exposure, the outcome, or both, and suggests excluding those that act as instrumental variables. He also considers the inclusion of proxies for unmeasured variables that may be common causes. The article seeks to balance the need to control confounding factors while avoiding the introduction of additional biases, especially in contexts where the causal structure is not fully understood.\nAdditionally, statistical strategies for selecting covariates in causal studies are discussed, including traditional methods such as forward/backward selection and changes in estimation, as well as more recent approaches like HDPS (High-Dimensional Propensity Scores) and machine learning techniques. It is emphasised that, despite methodological advances, substantive knowledge remains crucial for good selection.\nFrom my experience, this article was a real gateway into the world of causal inference. I found it valuable not only for its conceptual clarity but also because VanderWeele effectively tackles a complex issue with well-grounded and practical recommendations. I consider it essential reading for those starting to face the challenge of controlling for confounding in observational studies, and a reference I return to frequently. Without a doubt, it is one of those works that leaves a lasting impact on anyone interested in causality."
   },
   {
     "objectID": "publications.html",
@@ -77,17 +105,10 @@
     "text": "🔬 Scientific articles\n\nFirst author\nStochastic modeling, analysis, and simulation of the COVID-19 pandemic with explicit behavioral changes in Bogotá: A case study Infectious Disease Modelling, 2022 DOI: 10.1016/j.idm.2021.12.008 David Niño-Torres, Andrés Ríos-Gutiérrez, Viswanathan Arunachalam, Comfort Ohajunwa, Padmanabhan Seshaiyer\n\n\nAuthor\nRecovery from mental distress in youths in low-income urban areas in South America Social Psychiatry and Psychiatric Epidemiology, 2026 DOI: 10.1007/s00127-026-03204-2 Stefan Priebe, Catherine Fung, Luis Ignacio Brusco, Francisco Diez-Canseco, Carlos Gómez-Restrepo, Ricardo Araya, Fernando Luis Carbonetti, Natalia Godoy-Casasbuenas, James B. Kirkbride, Craig Morgan, David Niño-Torres, Natividad Olivar, Diliniya Stanislaus Sureshkumar, Mauricio Toyama, José Miguel Uribe-Restrepo, Ana Lucia Vilela-Estrada, Paul Bassett, Victoria Bird\nUnderstanding the community management of long-term physical and mental health conditions in Bolivia, Colombia and Guatemala: a situational analysis BMJ Global Health, 2026 DOI: 10.1136/bmjgh-2025-020466 Juan Camilo Marin-Urrego, Adriana Buitrago-Lopez, Carlos Gomez-Restrepo, Edgar Lopez Alvarez, Ronald Fernando Tapia Pijuan, Lucia Elena Alvarado-Arnez, Estela Tango-Camargo, Yazmin Cadena-Camargo, David Niño-Torres, Nelcy Rodriguez-Malagon, et al.\nScreening Accuracy of Reduced Scales PHQ and GAD in Young People Living in Deprived Urban Areas in Bogotá, Buenos Aires and Lima Revista Colombiana de Psiquiatría, 2025 DOI: 10.1016/j.rcp.2025.08.007 David Niño-Torres, Carlos Gomez-Restrepo, Francisco Diez-Canseco, Luis Ignacio Brusco, Diliniya Stanislaus Sureshkumar, Viviana Rodríguez-Romero, Ana L. Vilela-Estrada, Fernando Luis Carbonetti, José Miguel Uribe-Restrepo, Mauricio Toyama, et al.\nDiscordant results for ALK based on immunohistochemistry versus fluorescence in situ hybridization in a cohort of patients diagnosed with lung adenocarcinoma Revista Española de Patología, 2023 DOI: 10.1016/j.patol.2023.02.001 Luisa Sará, Ana Shaia Clavijo, Jesus David Niño-Torres, Luisa M. Solarte, Angela Vergara, Olga M. Moreno, Jorge L. Rodríguez, Adriana Rojas\nData as a tool for regulation and decision-making in telecommunications services: An academy-state innovation experience Kalpa Publications in Computing DOI: 10.29007/s4j3 Catalina Garcia, José Suarez, David Niño, Omar Roa, Ana Barbosa, Juan Plazas, Jhon Garcia, Julieth López, Ingrid Picón"
   },
   {
-    "objectID": "photos.html",
-    "href": "photos.html",
-    "title": "Photos",
+    "objectID": "bioepi.html",
+    "href": "bioepi.html",
+    "title": "BioEpi Insights",
     "section": "",
-    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” — Ansel Adams\n\n\n\n\nCargando fotos…\n\n\n\n\n\n\nVer galería completa en Flickr →"
-  },
-  {
-    "objectID": "photos.html#through-lens",
-    "href": "photos.html#through-lens",
-    "title": "Photos",
-    "section": "",
-    "text": "“You don’t make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved.” — Ansel Adams\n\n\n\n\nCargando fotos…\n\n\n\n\n\n\nVer galería completa en Flickr →"
+    "text": "Public Data Sources for Research and Statistical Analysis\n\n\n\npost\n\n\n\n\n\n\n\n\n\nOct 28, 2026\n\n\nDavid Niño\n\n\n\n\n\n\n\n\n\n\n\n\nPrinciples of confounder selection - Tyler J VanderWeele\n\n\n\npost\n\n\n\n\n\n\n\n\n\nApr 24, 2025\n\n\nDavid Niño\n\n\n\n\n\nNo matching items"
   }
 ]
