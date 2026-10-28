@@ -26,10 +26,10 @@ I am a biostatistician with a keen interest in unravelling complex population pr
 
 **Statistical Interests:**
 
-- Stochastic Processes
 - Bayesian Statistics
 - Longitudinal Models
 - Statistical Learning
+- Stochastic Processes
 
 **Areas of Application:**
 

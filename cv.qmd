@@ -22,40 +22,37 @@ css: styles.css
 *Thesis:* *Stochastic modelling of the COVID-19 pandemic with explicit behavioural changes in Bogotá: a case study*\
 *Supervisors:* Liliana Blanco, Viswanathan Arunachalam.
 
-## 🔬 Research experience
+## 🔬 Research Experience
 
-**Pontificia Universidad Javeriana, Faculty of Medicine**, Bogotá D.C, Colombia\
-**Research Assistant: Statistician**, 2023 – Present\
+**Pontificia Universidad Javeriana, Faculty of Medicine**, Bogotá, D.C., Colombia  
+**Research Assistant (Statistician)**, 2023–Present  
 *Department of Clinical Epidemiology and Biostatistics*
 
-**NIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America** [NIHR LATAM Centre](https://nihrlatamcentre.com)
+**NIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America** ([NIHR LATAM Centre](https://nihrlatamcentre.com))
 
-- Performed sociodemographic and epidemiological analyses of specific departments in Colombia using national data sources (DANE and SISPRO) in R: Cleaned, integrated, and visualised data for research reports.
-- Designed and delivered quantitative data analysis workshops in R for researchers.
-- Contributed to the development of the statistical analysis plan and the design of REDCap databases for data collection in a cluster-randomized and site-stratified randomized trials.
+- Conduct sociodemographic and epidemiological analyses of selected departments in Colombia using national data sources (DANE and SISPRO). Clean, integrate, and visualise data for research reports.
+- Design and deliver quantitative data analysis workshops in R for researchers.
+- Contribute to the development of statistical analysis plans and the design of REDCap databases for data collection in cluster-randomised and site-stratified randomised trials.
 
-**OLA Study: Mental Health among Youth in Latin America** [OLA Study](https://theolastudy.com)
+**OLA Study: Mental Health among Youth in Latin America** ([OLA Study](https://theolastudy.com))
 
-- Managed the end-to-end analysis of baseline and cohort sociodemographic and psychosocial data, including data processing and cleaning, statistical modelling using generalized linear and longitudinal models, and the preparation of research reports and contributions to scientific manuscript writing.
+- Manage and analyse baseline and longitudinal cohort data on sociodemographic and psychosocial characteristics. Perform data processing and cleaning, fit generalised linear and longitudinal models, prepare research reports, and contribute to scientific manuscripts.
 
-**Universidad Nacional de Colombia, Faculty of Engineering**, Bogotá D.C, Colombia\
-**Research Assistant: Statistician**, 2021 – 2023\
-*LAB101 - Innovation, Creativity, and New Technologies Laboratory* [LAB101 UNAL](https://sites.google.com/view/lab101unal/inicio)
+**Universidad Nacional de Colombia, Faculty of Engineering**, Bogotá, D.C., Colombia  
+**Research Assistant (Statistician)**, 2021–2023  
+*LAB101 – Innovation, Creativity, and New Technologies Laboratory* ([LAB101 UNAL](https://sites.google.com/view/lab101unal/inicio))
 
-- Analysed and visualised data on internet service quality in collaboration with Colombia's Communications Regulation Commission (CRC)
-- Designed indicators to assess the digital transformation process at Universidad Nacional de Colombia
-- Provided consulting on data analysis, statistical modelling, and geospatial analysis for projects with Bogotá's city council
-- Applied deep learning techniques for data automation and analysis
+- Analysed and visualised internet service quality data in collaboration with Colombia’s Communications Regulation Commission (CRC).
+- Developed indicators to assess the digital transformation process at Universidad Nacional de Colombia.
+- Provided consultancy on data analysis, statistical modelling, and geospatial analysis for projects with Bogotá City Council.
+- Applied deep learning techniques for data automation and analysis.
 
-
-## 🏫 Academic experience
-
-**Universidad Nacional de Colombia, Department of Statistics**, Bogotá D.C, Colombia\
-**Student Assistant**, 2019 – 2022\
+**Universidad Nacional de Colombia, Department of Statistics**, Bogotá, D.C., Colombia  
+**Student Assistant**, 2019–2022  
 *Stochastic Processes Research Group*
 
-- Processed and cleaned COVID-19 surveillance data
-- Implemented Markov chains and stochastic differential equations to project the evolution of the pandemic in Bogotá
+- Processed and cleaned COVID-19 surveillance data.
+- Implemented Markov chains and stochastic differential equations to project the evolution of the pandemic in Bogotá.
 
 ## 🧠 Skills and Interests
 

@@ -1,0 +1,64 @@
+---
+title: "Public Data Sources for Research and Statistical Analysis"
+author: "David Niño"
+date: "2026-10-28"
+categories: [post]
+---
+
+This post compiles a selection of public data sources for research and statistical analysis. The resources cover environmental and biodiversity data, geological information, geographic datasets, demographic statistics, socioeconomic indicators, and educational information. They include national and regional sources from Colombia, Germany, and other European countries, as well as international statistical databases and methodological resources for epidemiological analysis.
+
+## Colombia
+
+### Instituto de Investigación de Recursos Biológicos Alexander von Humboldt
+
+Provides data and tools related to biodiversity, ecosystems, and environmental monitoring in Colombia.
+
+- [Biomodelos](http://biomodelos.humboldt.org.co/): Species distribution models and information on the potential geographic presence of species.
+- [GeoNetwork](http://geonetwork.humboldt.org.co/geonetwork/srv/spa/catalog.search#/home): Catalogue of geographic datasets and associated metadata.
+- [Ceiba](http://i2d.humboldt.org.co/ceiba/): Information infrastructure for biodiversity and environmental data.
+
+### Servicio Geológico Colombiano (SGC)
+
+- [Geological Data Catalogue](http://bdrsnc.sgc.gov.co/paginas1/catalogo/index.php): Geological and geophysical information, including mineral resources, seismic activity, and volcanic hazards.
+
+### Instituto Geográfico Agustín Codazzi (IGAC)
+
+- [Colombia en Mapas](https://www.colombiaenmapas.gov.co/): Geographic information, base maps, administrative boundaries, land use, and cadastral data.
+
+### Departamento Administrativo Nacional de Estadística (DANE)
+
+- [Population and Housing Census](https://systema59.dane.gov.co/bincol/RpWebEngine.exe/Portal?BASE=CNPVBASE4V2&lang=esp): Census data on population, housing, and socioeconomic characteristics.
+
+### Ministry of Education
+
+- [Higher Education Programmes](https://hecaa.mineducacion.gov.co/consultaspublicas/programas): Information on higher education programmes and institutional quality indicators.
+
+## International and European Data Sources
+
+### Economic Commission for Latin America and the Caribbean (ECLAC/CEPAL)
+
+- [CEPALSTAT](https://estadisticas.cepal.org/cepalstat/web_cepalstat/estadisticasindicadores.asp): Regional socioeconomic indicators, including poverty, employment, education, and gross domestic product.
+
+### Federal Statistical Office of Germany (Destatis)
+
+- [Destatis](https://www.destatis.de/EN/Home/_node.html): Official statistics on population, the economy, and industry in Germany.
+- [Berlin-Brandenburg Statistics](https://www.statistik-berlin-brandenburg.de/stadtstatistik): Regional and local statistical data for Berlin and Brandenburg.
+- [ArcGIS Hub Dataset](https://hub.arcgis.com/datasets/ae25571c60d94ce5b7fcbf74e27c00e0/about): Open geospatial dataset for regional or urban analysis.
+
+### EuroGeographics
+
+- [Access Data Portal](https://www.mapsforeurope.org/access-data): Access to harmonised geospatial datasets covering European countries.
+
+### Eurostat
+
+- [Eurostat Data Browser](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en&display=list&sort=category): Statistical data on population, social conditions, the economy, and other topics across the European Union.
+- [Regional Statistics](https://www.regionalstatistik.de/genesis/online): Subnational statistical data for regional comparisons.
+
+## Methodological Resource
+
+### EpiR Handbook
+
+- [EpiR Handbook](https://epirhandbook.com/en/): Practical guidance on epidemiological data analysis, including data management, statistical methods, and examples in R.
+- [Descriptive Tables](https://epirhandbook.com/en/new_pages/tables_descriptive.html): Guidance and examples for producing descriptive tables in epidemiological research.
+
+These resources can support the identification, collection, and analysis of public data for demographic, socioeconomic, environmental, geographic, and public health research. Data availability, geographic coverage, and access conditions may vary across sources.
