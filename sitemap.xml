@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jdninot.github.io/bioepi.html</loc>
-    <lastmod>2026-10-28T14:41:40.019Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdninot.github.io/photos.html</loc>
-    <lastmod>2026-10-28T14:41:40.019Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jdninot.github.io/posts/Principles of confounder selection/index.html</loc>
-    <lastmod>2026-10-28T14:41:40.020Z</lastmod>
+    <loc>https://jdninot.github.io/index.html</loc>
+    <lastmod>2026-10-29T03:06:15.859Z</lastmod>
   </url>
   <url>
     <loc>https://jdninot.github.io/cv.html</loc>
-    <lastmod>2026-10-28T14:41:40.019Z</lastmod>
+    <lastmod>2026-10-29T03:06:15.859Z</lastmod>
   </url>
   <url>
-    <loc>https://jdninot.github.io/index.html</loc>
-    <lastmod>2026-10-28T14:41:40.019Z</lastmod>
+    <loc>https://jdninot.github.io/photos.html</loc>
+    <lastmod>2026-10-29T03:06:15.859Z</lastmod>
   </url>
   <url>
     <loc>https://jdninot.github.io/posts/Public Data Sources/index.html</loc>
-    <lastmod>2026-10-28T14:41:40.020Z</lastmod>
+    <lastmod>2026-10-29T03:06:15.860Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdninot.github.io/posts/Principles of confounder selection/index.html</loc>
+    <lastmod>2026-10-29T03:06:15.860Z</lastmod>
   </url>
   <url>
     <loc>https://jdninot.github.io/publications.html</loc>
-    <lastmod>2026-10-28T14:41:40.020Z</lastmod>
+    <lastmod>2026-10-29T03:06:15.860Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdninot.github.io/bioepi.html</loc>
+    <lastmod>2026-10-29T03:06:15.859Z</lastmod>
   </url>
 </urlset>
