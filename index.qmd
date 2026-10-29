@@ -26,11 +26,7 @@ I am a biostatistician with a keen interest in unravelling complex population pr
 
 **Statistical Interests:**
 
-- Bayesian Statistics
-- Survival analysis
-- Longitudinal and Multilevel Models
-- Stochastic Processes
-- Causal Inference
+- Bayesian statistics, survival analysis and event-history methods, longitudinal and multilevel models, stochastic processes, and causal inference.
 
 **Research and Application Areas:**
 
