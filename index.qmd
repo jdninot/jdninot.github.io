@@ -26,11 +26,9 @@ I am a biostatistician with a keen interest in unravelling complex population pr
 
 **Statistical Interests:**
 
-- Bayesian statistics, survival analysis and event-history methods, longitudinal and multilevel models, stochastic processes, and causal inference.
+- Bayesian statistics, survival analysis, multilevel models, stochastic processes, and causal inference.
 
 **Research and Application Areas:**
 
 - **Quantitative Demography:** Mortality patterns and trends, migration dynamics, population projections, and statistical methods for demographic analysis.
 - **Population Epidemiology and Health Inequalities:** Health inequalities, substance use epidemiology, environmental epidemiology, and infectious disease modelling.
-
-Outside research, I enjoy running 🏃‍♂️, swimming 🏊‍♂️, photography 📷, and philosophy 📚.

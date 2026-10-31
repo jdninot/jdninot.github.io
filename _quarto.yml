@@ -54,11 +54,16 @@ format:
     fontsize: 1rem
     linkcolor: "#3D6B94"
     backgroundcolor: "#FFFFFF"
+    # grid:
+    #   body-width: 1000px
+    #   margin-width: 150px
+    #   gutter-width: 1.5rem
     toc: true
     toc-depth: 2
     smooth-scroll: true
     link-external-icon: true
     link-external-newwindow: true
+
 
 editor: visual
 
