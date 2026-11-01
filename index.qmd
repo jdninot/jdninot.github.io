@@ -22,13 +22,14 @@ about:
 
 ### About me
 
-I am a biostatistician with a keen interest in unravelling complex population processes—particularly within the field of health—through mathematical and statistical modelling.
+I am a  ⟨Bio⟩ statistician with a keen interest in unravelling complex population processes—particularly within the field of health—through mathematical and statistical modelling.
 
 **Statistical Interests:**
 
-- Bayesian statistics, survival analysis, multilevel models, stochastic processes, and causal inference.
+- Bayesian statistics, multilevel models, survival analysis, stochastic processes, statistical learning, and causal inference.
 
-**Research and Application Areas:**
+**Application Areas:**
 
-- **Quantitative Demography:** Mortality patterns and trends, migration dynamics, population projections, and statistical methods for demographic analysis.
-- **Population Epidemiology and Health Inequalities:** Health inequalities, substance use epidemiology, environmental epidemiology, and infectious disease modelling.
+- **Demography**: Mortality patterns and trends, life expectancy analysis, international migration dynamics, population projections, and economic inequality and poverty.
+
+- **Epidemiology**: Health inequalities, substance use epidemiology, environmental epidemiology, and infectious disease modelling.
