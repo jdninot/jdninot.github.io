@@ -1,28 +1,30 @@
 ---
-title: "Photos"
-title-block-banner: true
+title: "📷 Through Lens"
+# title-block-banner: true
 format: html
 page-layout: full
 toc: false
 css: styles.css
 ---
 
-## 📷 Through Lens
-
 > *"You don't make a photograph just with a camera. You bring to the act of photography all the pictures you have seen, the books you have read, the music you have heard, the people you have loved."* — Ansel Adams
 
-::: {style="max-width: 900px; margin: 2em auto;"}
+:::::: {style="max-width: 900px; margin: 2em auto;"}
+::: {#flickr-slideshow .flickr-hero}
+<p class="flickr-loading">
 
-<div id="flickr-slideshow" class="flickr-hero">
-  <p class="flickr-loading">Cargando fotos…</p>
-</div>
+Cargando fotos…
 
-<div class="flickr-footer">
-  <div id="flickr-dots" class="flickr-dots"></div>
-  <a href="https://www.flickr.com/photos/199852956@N06" target="_blank" class="flickr-link">Ver galería completa en Flickr →</a>
-</div>
-
+</p>
 :::
+
+:::: flickr-footer
+::: {#flickr-dots .flickr-dots}
+:::
+
+<a href="https://www.flickr.com/photos/199852956@N06" target="_blank" class="flickr-link">Ver galería completa en Flickr →</a>
+::::
+::::::
 
 ```{=html}
 <script>

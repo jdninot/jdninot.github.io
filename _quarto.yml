@@ -3,11 +3,11 @@ project:
 
 website:
   title: "David Niño"
-  # favicon: "dimension.png"
+  favicon: "dimension.png"
   navbar:
     background: "#1A2E40"
     foreground: "#FDFEFE"
-    # logo: "dimension.png"
+    logo: "dimension.png"
     logo-alt: "David Niño logo"
     search: true
     border: true

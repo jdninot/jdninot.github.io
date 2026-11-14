@@ -15,7 +15,7 @@ css: styles.css
 
 ### Author
 
-**Recovery from mental distress in youths in low-income urban areas in South America** *Social Psychiatry and Psychiatric Epidemiology*, 2026 DOI: [10.1007/s00127-026-03204-2]( http://dx.doi.org/10.1007/s00127-026-03204-2) Stefan Priebe, Catherine Fung, Luis Ignacio Brusco, Francisco Diez-Canseco, Carlos Gómez-Restrepo, Ricardo Araya, Fernando Luis Carbonetti, Natalia Godoy-Casasbuenas, James B. Kirkbride, Craig Morgan, **David Niño-Torres**, Natividad Olivar, Diliniya Stanislaus Sureshkumar, Mauricio Toyama, José Miguel Uribe-Restrepo, Ana Lucia Vilela-Estrada, Paul Bassett, Victoria Bird
+**Recovery from mental distress in youths in low-income urban areas in South America** *Social Psychiatry and Psychiatric Epidemiology*, 2026 DOI: [10.1007/s00127-026-03204-2](http://dx.doi.org/10.1007/s00127-026-03204-2) Stefan Priebe, Catherine Fung, Luis Ignacio Brusco, Francisco Diez-Canseco, Carlos Gómez-Restrepo, Ricardo Araya, Fernando Luis Carbonetti, Natalia Godoy-Casasbuenas, James B. Kirkbride, Craig Morgan, **David Niño-Torres**, Natividad Olivar, Diliniya Stanislaus Sureshkumar, Mauricio Toyama, José Miguel Uribe-Restrepo, Ana Lucia Vilela-Estrada, Paul Bassett, Victoria Bird
 
 **Understanding the community management of long-term physical and mental health conditions in Bolivia, Colombia and Guatemala: a situational analysis** *BMJ Global Health*, 2026 DOI: [10.1136/bmjgh-2025-020466](https://doi.org/10.1136/bmjgh-2025-020466) Juan Camilo Marin-Urrego, Adriana Buitrago-Lopez, Carlos Gomez-Restrepo, Edgar Lopez Alvarez, Ronald Fernando Tapia Pijuan, Lucia Elena Alvarado-Arnez, Estela Tango-Camargo, Yazmin Cadena-Camargo, **David Niño-Torres**, Nelcy Rodriguez-Malagon, et al.
 
