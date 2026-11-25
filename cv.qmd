@@ -24,8 +24,8 @@ css: styles.css
 
 ## 🔬 Research Experience
 
-**Pontificia Universidad Javeriana, Faculty of Medicine**, Bogotá, D.C., Colombia  
-**Research Assistant (Statistician)**, 2023–Present  
+**Pontificia Universidad Javeriana, Faculty of Medicine**, Bogotá, D.C., Colombia\
+**Research Assistant (Statistician)**, 2023–Present\
 *Department of Clinical Epidemiology and Biostatistics*
 
 **NIHR Global Health Research Centre on Non-communicable Diseases and Mental Health in Latin America** ([NIHR LATAM Centre](https://nihrlatamcentre.com))
@@ -38,8 +38,8 @@ css: styles.css
 
 - Manage and analyse baseline and longitudinal cohort data on sociodemographic and psychosocial characteristics. Perform data processing and cleaning, fit generalised linear and longitudinal models, prepare research reports, and contribute to scientific manuscripts.
 
-**Universidad Nacional de Colombia, Faculty of Engineering**, Bogotá, D.C., Colombia  
-**Research Assistant (Statistician)**, 2021–2023  
+**Universidad Nacional de Colombia, Faculty of Engineering**, Bogotá, D.C., Colombia\
+**Research Assistant (Statistician)**, 2021–2023\
 *LAB101 – Innovation, Creativity, and New Technologies Laboratory* ([LAB101 UNAL](https://sites.google.com/view/lab101unal/inicio))
 
 - Analysed and visualised internet service quality data in collaboration with Colombia’s Communications Regulation Commission (CRC).
@@ -47,8 +47,8 @@ css: styles.css
 - Provided consultancy on data analysis, statistical modelling, and geospatial analysis for projects with Bogotá City Council.
 - Applied deep learning techniques for data automation and analysis.
 
-**Universidad Nacional de Colombia, Department of Statistics**, Bogotá, D.C., Colombia  
-**Student Assistant**, 2019–2022  
+**Universidad Nacional de Colombia, Department of Statistics**, Bogotá, D.C., Colombia\
+**Student Assistant**, 2019–2022\
 *Stochastic Processes Research Group*
 
 - Processed and cleaned COVID-19 surveillance data.
